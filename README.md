@@ -13,8 +13,13 @@
 
 <br>
 <br>
-
-
+<p>Desenvolvi nesse projeto uma página que faz a conversão de valores do Real Para outras moedas como:</p>
+<ul>
+  <li>Dólar</li>
+  <li>Euro</li>
+  <li>Librar</li>
+  <li>Bitcoin</li>
+</ul>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
