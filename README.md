@@ -22,10 +22,5 @@
 <br>
 <br>
 
-<table>
-  <tr>
-    <td><img href="[./assets/print 1.png](https://github.com/Eduardo-2603/CONVERT-MONEY/blob/main/assets/PRINT%201.png?raw=true)"></td>
-  </tr>
-</table>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
