@@ -12,7 +12,6 @@
 </ul>
 
 <br>
-<br>
 <p>Desenvolvi nesse projeto uma página que faz a conversão de valores do Real Para outras moedas como:</p>
 <ul>
   <li>US$ Dólar</li>
